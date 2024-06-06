@@ -1,1 +1,1 @@
-# Microsoft-Code-Without-Barriers-Hackathon-2024-Submission
+# Microsoft Code Without Barriers Hackathon 2024 Submission
